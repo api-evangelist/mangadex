@@ -1,0 +1,32 @@
+aid: mangadex
+name: MangaDex
+description: "Manga Database and Community"
+url: https://api.mangadex.org/docs.html
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Anime"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Anime
+  - Public APIs
+apis:
+  - name: MangaDex
+    description: "Manga Database and Community"
+    humanURL: https://api.mangadex.org/docs.html
+    baseURL: https://api.mangadex.org/docs.html
+    tags:
+      - Anime
+    properties:
+      - type: Documentation
+        url: https://api.mangadex.org/docs.html
+common:
+  - type: Website
+    url: https://api.mangadex.org/docs.html
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
