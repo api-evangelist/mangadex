@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://api.mangadex.org/docs.html
 common:
+  - type: DomainSecurity
+    url: security/mangadex-domain-security.yml
   - type: Website
     url: https://api.mangadex.org/docs.html
   - type: PublicAPIsListing
