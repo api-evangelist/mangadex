@@ -39,7 +39,6 @@ apis:
   - name: MangaDex
     description: "Manga Database and Community"
     humanURL: https://api.mangadex.org/docs.html
-    baseURL: https://api.mangadex.org/docs.html
     tags:
       - Anime
     properties:
